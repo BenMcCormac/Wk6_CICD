@@ -15,4 +15,9 @@ public class ProductService
         myList.add(product);
         return myList;
     }
+
+    public List<Product> updateP(Product product)
+    {
+        myList.remove()
+    }
 }
